@@ -1,10 +1,10 @@
-package Patterns;
+package Patterns.Builder;
 
 public class BuilderApp {
     public static void main(String[] args){
         House house = new HouseBuilder()
                 .buildMaker("luxHouse")
-                .buildBox("Appartment")
+               // .buildBox("Appartment")
                 .buildStoreys(3)
                 .build();
         System.out.println(house);
@@ -14,6 +14,16 @@ class House{
     String Maker;
     String Box;
     int Storeys;
+
+    @Override
+    public String toString() {
+        return "House{" +
+                "Maker='" + Maker + '\'' +
+                ", Box='" + Box + '\'' +
+                ", Storeys=" + Storeys +
+                '}';
+    }
+
     public void setBox(String box) {this.Box = box;}
     public void setMaker(String Maker) {this.Maker = Maker;}
     public void setStoreys(int Storeys) {this.Storeys = Storeys;}
@@ -34,7 +44,7 @@ class HouseBuilder{
         this.S = S;
         return this;
     }
-    HouseBuilder(){
+    House build(){
         House house = new House();
         house.setMaker(M);
         house.setBox(B);
