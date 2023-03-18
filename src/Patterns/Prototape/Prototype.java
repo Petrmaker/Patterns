@@ -11,7 +11,7 @@ public class Prototype {
 interface Copyble {
     Object copy();
 }
-class Smartphone implements Copyble {
+class Smartphone implements Copyble{
     String brand;
     String maker;
     int price;
