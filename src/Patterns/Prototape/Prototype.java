@@ -15,11 +15,17 @@ class Smartphone implements Copyble {
     String brand;
     String maker;
     int price;
+
     public Smartphone(String brand, String maker, int price) {
         this.brand = brand;
         this.maker = maker;
         this.price = price;
     }
+    public String toString(){
+        return brand+","+maker+","+price;
+    }
+
+
 
     public Object copy() {
         Smartphone copy = new Smartphone(brand, maker, price);

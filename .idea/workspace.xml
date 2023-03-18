@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="delegate was delited">
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" afterDir="false" />
+    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="pattern Prototype">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Builder/BuilderApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679141156728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pattern Prototype">
+      <created>1679162745050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679162745050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delegate was delited" />
-    <option name="LAST_COMMIT_MESSAGE" value="delegate was delited" />
+    <MESSAGE value="pattern Prototype" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern Prototype" />
   </component>
 </project>
