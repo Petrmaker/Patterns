@@ -24,9 +24,6 @@ class Smartphone implements Copyble{
     public String toString(){
         return brand+","+maker+","+price;
     }
-
-
-
     public Object copy() {
         Smartphone copy = new Smartphone(brand, maker, price);
         return copy;

@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="pattern Prototype">
+    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="add toString">
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Facade/Facade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NBcDB7SzLAgxlYaXPn4EpWG983" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679162745050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add toString">
+      <created>1679165194118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679165194118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add toString">
+      <created>1679165330691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679165330691</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delegate was delited" />
     <MESSAGE value="pattern Prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern Prototype" />
+    <MESSAGE value="add toString" />
+    <option name="LAST_COMMIT_MESSAGE" value="add toString" />
   </component>
 </project>
