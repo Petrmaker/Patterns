@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="add toString">
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Facade/Facade.java" afterDir="false" />
+    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="made facade">
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Template/Template.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Prototape/Prototype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679165330691</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="made facade">
+      <created>1679234980035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679234980035</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +109,7 @@
     <MESSAGE value="delegate was delited" />
     <MESSAGE value="pattern Prototype" />
     <MESSAGE value="add toString" />
-    <option name="LAST_COMMIT_MESSAGE" value="add toString" />
+    <MESSAGE value="made facade" />
+    <option name="LAST_COMMIT_MESSAGE" value="made facade" />
   </component>
 </project>
