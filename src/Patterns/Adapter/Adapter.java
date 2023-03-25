@@ -5,7 +5,6 @@ public class Adapter{
         Lock L = new LockAdapterFromVoice();
         L.key();
         L.codeKey();
-
     }
 }
 interface Lock{
