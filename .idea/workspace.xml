@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="Made Factory method">
+    <list default="true" id="ab36b348-105f-4bce-89a3-7e52f1d6702f" name="Changes" comment="Made Adapter method">
       <change afterPath="$PROJECT_DIR$/src/Patterns/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Decorator/Decorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Patterns/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/factory/Factory.java" afterDir="false" />
     </list>
@@ -115,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679429823834</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Made Factory method">
+      <created>1679764496460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679764496460</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Made Adapter method">
+      <created>1679764551238</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679764551238</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +150,7 @@
     <MESSAGE value="Made Template" />
     <MESSAGE value="Made Composite" />
     <MESSAGE value="Made Factory method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Factory method" />
+    <MESSAGE value="Made Adapter method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Adapter method" />
   </component>
 </project>
